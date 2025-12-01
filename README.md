@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- En-tête Épuré et Professionnel -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=280&section=header&text=Arkoter&fontSize=90&animation=fadeIn&fontAlignY=35&fontColor=ffffff" alt="Arkoter Header" width="100%"/>
+  <!-- En-tête Coloré style Image 2, mais uniquement avec "Arkoter" -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Arkoter&fontSize=90&animation=fadeIn&fontAlignY=35&fontColor=ffffff" alt="Arkoter Header" width="100%"/>
 
   <br/>
 
