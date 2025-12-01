@@ -1,53 +1,82 @@
 <div align="center">
 
-  <!-- Titre animé ou image d'en-tête -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Salut,%20je%20suis%20Arkoter%20!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Développeur%20en%20herbe%20🚀&descAlignY=51&descAlign=62" alt="Header Arkoter" width="100%"/>
+  <!-- En-tête Épuré et Professionnel -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=280&section=header&text=Arkoter&fontSize=90&animation=fadeIn&fontAlignY=35&fontColor=ffffff" alt="Arkoter Header" width="100%"/>
 
-  ### 🌟 À propos de moi
+  <br/>
 
+  <!-- Introduction -->
   <p align="center">
-    Je suis un développeur débutant passionné par l'apprentissage de nouvelles technologies.<br>
-    J'explore actuellement le monde du code pour transformer des idées en réalité.
+    <strong>Développeur & Contributeur Open Source</strong>
+  </p>
+  <p align="center">
+    Je conçois des solutions techniques et j'explore les nouvelles architectures logicielles. <br/>
+    Focus sur la performance, la propreté du code et l'expérience utilisateur.
   </p>
 
-  ---
+  <br/>
 
-  <!-- Section Réseaux Sociaux -->
+  <!-- Réseaux Sociaux (Style Pro) -->
   <a href="https://twitter.com/ArkoTer" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://github.com/Arkoter" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
+</div>
+
+<br/>
+
+---
+
+### ⚡ Stack Technique
+
+<div align="center">
+
+| **Langages** | **Frameworks & Libs** | **Outils & DevOps** |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=python,js,ts,cpp" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" /> | <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode" /> |
+| <img src="https://skillicons.dev/icons?i=html,css,java,cs" /> | <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,jquery" /> | <img src="https://skillicons.dev/icons?i=github,npm,postman,mysql" /> |
+
+</div>
+
+> *Note : J'ai inclus une large palette. Supprimez simplement les icônes (ex: `java`, `docker`) dans l'URL ci-dessus si vous ne les utilisez pas.*
+
+---
+
+### 🚀 Projets Phares
+
+| Projet | Description | Stack |
+| :--- | :--- | :--- |
+| **Nom du Projet 1** | Une brève description technique de ce que fait ce projet et le problème qu'il résout. | `Python` `TensorFlow` |
+| **Nom du Projet 2** | Explication concise d'une application ou d'un outil que vous avez développé. | `React` `Node.js` |
+| **Nom du Projet 3** | Un autre projet intéressant ou une contribution significative. | `TypeScript` |
+
+---
+
+### 📊 Métriques & Activité
+
+<div align="center">
+  <br/>
+  <!-- Trophées (Effet 3D sympa) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Arkoter&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
+  
   <br/><br/>
 
-  <!-- Section Technologies (Supprimez celles que vous n'utilisez pas encore) -->
-  <h3>🛠️ Ma Boîte à Outils</h3>
-  
-  <!-- Ligne 1 -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  
-  <!-- Ligne 2 -->
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  
-  <br/><br/>
+  <!-- Stats clean et sombres -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Arkoter&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="Stats Arkoter" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkoter&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Langages" />
+</div>
 
-  <!-- Section Statistiques Automatiques -->
-  <h3>📊 Mes Stats GitHub</h3>
+<br/>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Arkoter&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats Arkoter" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkoter&layout=compact&theme=radical&hide_border=true" alt="Langages les plus utilisés" />
-  </p>
-  
-  <!-- Streak (Série de contributions) -->
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arkoter&theme=radical&hide_border=true" alt="Streak Arkoter" />
-  </p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arkoter&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
+</div>
 
+---
+
+<div align="center">
+  <p>📫 <strong>Me contacter :</strong> <a href="mailto:votre-email@exemple.com">votre-email@exemple.com</a></p>
 </div>
