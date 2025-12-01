@@ -1,11 +1,9 @@
 <div align="center">
 
-  <!-- En-tête Coloré style Image 2, mais uniquement avec "Arkoter" -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Arkoter&fontSize=90&animation=fadeIn&fontAlignY=35&fontColor=ffffff" alt="Arkoter Header" width="100%"/>
 
   <br/>
 
-  <!-- Introduction -->
   <p align="center">
     <strong>Développeur & Contributeur Open Source</strong>
   </p>
@@ -16,13 +14,10 @@
 
   <br/>
 
-  <!-- Réseaux Sociaux (Style Pro) -->
   <a href="https://twitter.com/ArkoTer" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://github.com/Arkoter" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <img src="https://img.shields.io/badge/Discord-arko%5Fter-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord arko_ter"/>
 
 </div>
 
@@ -41,7 +36,6 @@
 
 </div>
 
-> *Note : J'ai inclus une large palette. Supprimez simplement les icônes (ex: `java`, `docker`) dans l'URL ci-dessus si vous ne les utilisez pas.*
 
 ---
 
@@ -59,12 +53,9 @@
 
 <div align="center">
   <br/>
-  <!-- Trophées (Effet 3D sympa) -->
   <img src="https://github-profile-trophy.vercel.app/?username=Arkoter&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
   
   <br/><br/>
-
-  <!-- Stats clean et sombres -->
   <img src="https://github-readme-stats.vercel.app/api?username=Arkoter&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="Stats Arkoter" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkoter&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Langages" />
 </div>
@@ -78,5 +69,5 @@
 ---
 
 <div align="center">
-  <p>📫 <strong>Me contacter :</strong> <a href="mailto:votre-email@exemple.com">votre-email@exemple.com</a></p>
+  <p>📫 <strong>Me contacter :</strong> <a href="mailto:arkoter.contact@arkoter.com">arkoter.contact@arkoter.com</a></p>
 </div>
