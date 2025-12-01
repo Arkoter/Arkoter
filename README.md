@@ -17,7 +17,10 @@
   <a href="https://twitter.com/ArkoTer" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <img src="https://img.shields.io/badge/Discord-arko%5Fter-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord arko_ter"/>
+  <!-- Bouton Discord mis à jour vers le serveur -->
+  <a href="https://discord.gg/R4JQWdPpFF" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Rejoindre-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server"/>
+  </a>
 
 </div>
 
