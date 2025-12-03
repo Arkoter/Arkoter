@@ -17,7 +17,6 @@
   <a href="https://twitter.com/ArkoTer" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <!-- Bouton Discord mis à jour vers le serveur -->
   <a href="https://discord.gg/R4JQWdPpFF" target="_blank">
     <img src="https://img.shields.io/badge/Discord-Rejoindre-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server"/>
   </a>
@@ -56,11 +55,19 @@
 
 <div align="center">
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Arkoter&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Arkoter&theme=radical" alt="Trophées Arkoter" />
   
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Arkoter&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="Stats Arkoter" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkoter&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Langages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Arkoter" target="_blank">
+    <img src="https://img.shields.io/badge/Trophées-Accéder%20au%20profil-6cc644?style=for-the-badge&logo=github" alt="Fallback Trophées"/>
+  </a>
 </div>
 
 <br/>
