@@ -33,8 +33,8 @@
 
 | **Languages** | **Frameworks & Libs** | **Tools & DevOps** |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=python,js,ts,cpp" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" /> | <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode" /> |
-| <img src="https://skillicons.dev/icons?i=html,css,java,cs" /> | <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,jquery" /> | <img src="https://skillicons.dev/icons?i=github,npm,postman,mysql" /> |
+| <img src="https://skillicons.dev/icons?i=python,js,go,lua" /> | <img src="https://skillicons.dev/icons?i=react,nodejs" /> | <img src="https://skillicons.dev/icons?i=git,blender,linux,vscode" /> |
+| <img src="https://skillicons.dev/icons?i=html,css,java,cs" /> | <img src="https://skillicons.dev/icons?i=dotnet,pytorch" /> | <img src="https://skillicons.dev/icons?i=github,unity,mysql,unreal" /> |
 
 </div>
 
