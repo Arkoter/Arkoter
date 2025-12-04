@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Arkoter&fontSize=90&animation=fadeIn&fontAlignY=35&fontColor=ffffff" alt="Arkoter Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Arkoter&fontSize=90&animation=fadeIn&fontAlignY=35&fontColor=ffffff" alt="Arkoter Header" />
 
   <br/>
 
@@ -38,7 +38,6 @@
 
 </div>
 
-
 ---
 
 ### 🚀 Featured Projects
@@ -52,25 +51,6 @@
 ---
 
 ### 📊 Metrics & Activity
-
-<div align="center">
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Arkoter&theme=radical" alt="Arkoter Trophies" />
-  
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Arkoter&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="Arkoter Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkoter&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/Arkoter" target="_blank">
-    <img src="https://img.shields.io/badge/Trophies-View%20Profile-6cc644?style=for-the-badge&logo=github" alt="Profile Button"/>
-  </a>
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arkoter&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
