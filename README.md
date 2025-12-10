@@ -61,5 +61,3 @@
 <div align="center">
   <p>📫 <strong>Contact me:</strong> <a href="mailto:arkoter.contact@arkoter.com">arkoter.contact@arkoter.com</a></p>
 </div>
-
-//lakfkak
