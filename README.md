@@ -52,9 +52,10 @@
 
 ### 📊 Metrics & Activity
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arkoter&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
-</div>
+<p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arkoter's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Arkoter&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    </a>
 
 ---
 
