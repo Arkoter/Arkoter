@@ -44,7 +44,7 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| [**HammersUltimate**](https://github.com/Arkoter/HammersUltimate) | The ultimate Hammer plugin for any Minecraft server, fully customizable. | `Java` |
+| [**HammersUltimate**](https://builtbybit.com/resources/hammersultimate.84994/) | The ultimate Hammer plugin for any Minecraft server, fully customizable. | `Java` |
 | [**EasyMobLootTable**](https://github.com/Arkoter/EasyMobLootTable) | An open-source plugin that allows you to easily modify Minecraft mob loot tables. | `Java` |
 | [**Clicker Game**](https://github.com/Arkoter/clicker-game) | An open-source clicker game inspired by Cookie Clicker. | `JavaScript` |
 
