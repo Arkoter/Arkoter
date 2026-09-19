@@ -8,8 +8,7 @@
     <strong>Developer & Open Source Contributor</strong>
   </p>
   <p align="center">
-    I build practical tools and experiment with modern software architectures. <br/>
-    I focus on clean code, smooth user experience, and solid performance.
+    Développeur passionné <br/>
   </p>
 
   <br/>
