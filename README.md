@@ -11,15 +11,6 @@
     Développeur passionné <br/>
   </p>
 
-  <br/>
-
-  <a href="https://twitter.com/ArkoTer" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://discord.gg/R4JQWdPpFF" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server"/>
-  </a>
-
 </div>
 
 <br/>
